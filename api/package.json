@@ -36,6 +36,7 @@
     "strapi-plugin-documentation": "3.5.0",
     "strapi-plugin-email": "3.5.0",
     "strapi-plugin-graphql": "3.5.0",
+    "strapi-plugin-sentry": "^3.5.1",
     "strapi-plugin-upload": "3.5.0",
     "strapi-plugin-users-permissions": "3.5.0",
     "strapi-provider-email-sendgrid": "^3.5.1",

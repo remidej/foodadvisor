@@ -11091,6 +11091,13 @@ strapi-plugin-graphql@3.5.0:
     pluralize "^8.0.0"
     strapi-utils "3.5.0"
 
+strapi-plugin-sentry@^3.5.1:
+  version "3.5.1"
+  resolved "https://registry.yarnpkg.com/strapi-plugin-sentry/-/strapi-plugin-sentry-3.5.1.tgz#34bf7f529f755a8c9235acce7a8f2a0a680ace99"
+  integrity sha512-gGYJxNHpM71Fw9XQzugJ9aeeYO1bG9ZMscgQWWsRcLIGlcEPIdKlkZeHJMubL8suzqmtdoF4umNzsfvC4wnVig==
+  dependencies:
+    "@sentry/node" "6.1.0"
+
 strapi-plugin-upload@3.5.0:
   version "3.5.0"
   resolved "https://registry.yarnpkg.com/strapi-plugin-upload/-/strapi-plugin-upload-3.5.0.tgz#7d3c027b0c942740d5eb12cd39beb9d2769ae9ce"
